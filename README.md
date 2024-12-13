@@ -1,4 +1,4 @@
-# SoalZard php
+# SoalZard.php
 https://quera.org/problemset/3537?tab=description
 <?php
 $n = (int)readline("Enter a number: ");
